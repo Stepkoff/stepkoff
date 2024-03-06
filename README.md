@@ -1,6 +1,6 @@
 <h3>Stepan Rudiak</h3>
 
-<a target="_blank" href='https://drive.google.com/file/d/199JCi8B62gaCIDhJuXorj_LgaV3SQEMn/view?usp=drive_link'>Download CV</a>
+<a href='https://drive.google.com/file/d/199JCi8B62gaCIDhJuXorj_LgaV3SQEMn/view?usp=drive_link'>Download CV</a>
 
 <pre>
   export const aboutMe = {
@@ -16,8 +16,8 @@
 <a href='https://www.facebook.com/stepan.rudiak.58'>
   <img src='https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white'/>
 </a>
-<a href="https://www.linkedin.com/in/stepan-rudiak/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<a href='https://www.linkedin.com/in/stepan-rudiak/'>
+  <img src='https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white' alt='LinkedIn Badge'/>
 </a>
 
 
