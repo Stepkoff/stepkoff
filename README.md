@@ -13,7 +13,7 @@
   }
 </pre>
 
-http://i.imgur.com/P3YfQoD.png
+<img src='http://i.imgur.com/P3YfQoD.png'>
 
 
 <!--
