@@ -1,6 +1,5 @@
 <h3>Stepan Rudiak</h3>
-
-<a href='https://drive.google.com/file/d/199JCi8B62gaCIDhJuXorj_LgaV3SQEMn/view?usp=drive_link'>Download CV</a>
+<hr>
 
 <pre>
   export const aboutMe = {
@@ -13,8 +12,16 @@
   }
 </pre>
 
-<h5>Connect with me:</h5>
+<hr>
 
+<h4>💼 Technical Skills</h4>
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+<hr>
+<a href='https://drive.google.com/file/d/199JCi8B62gaCIDhJuXorj_LgaV3SQEMn/view?usp=drive_link'>Download CV</a>
+
+<hr>
+<h4>🤝 Connect with me</h4>
 <a href='https://www.facebook.com/stepan.rudiak.58'>
   <img src='https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white' alt='facebook Badge'>
 </a>
@@ -22,18 +29,3 @@
   <img src='https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white' alt='LinkedIn Badge'>
 </a>
 
-
-<!--
-**Stepkoff/stepkoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
