@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href='https://drive.google.com/file/d/199JCi8B62gaCIDhJuXorj_LgaV3SQEMn/view?usp=drive_link'>Download CV</a>
+
 <pre>
   export const aboutMe = {
     test: test
