@@ -14,10 +14,10 @@
 </pre>
 
 <a href='https://www.facebook.com/stepan.rudiak.58'>
-  <img src='https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white'>
 </a>
 <a href='https://www.linkedin.com/in/stepan-rudiak/'>
-  <img src='https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white' alt='LinkedIn Badge'/>
+  <img src='https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white' alt='LinkedIn Badge'>
 </a>
 
 
