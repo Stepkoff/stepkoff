@@ -1,10 +1,15 @@
-### Hi there 👋
+<h3>Stepan Rudiak</h3>
 
 <a target="_blank" href='https://drive.google.com/file/d/199JCi8B62gaCIDhJuXorj_LgaV3SQEMn/view?usp=drive_link'>Download CV</a>
 
 <pre>
   export const aboutMe = {
-    test: test
+    fName: 'Stepan',
+    lName: 'Rudiak',
+    profession: 'Front-end Developer',
+    languages: ['Ukrainian', 'English', 'Polish', 'Russian'],
+    canUse: ['JS', 'TS', 'React', 'HTML', 'CSS', 'Tailwind CSS', 'Styled-components', 
+        'Redux', 'Redux Toolkit', 'git', 'React Hook Form', 'zod', 'TanStack Query', 'Storybook', 'Webpack'],
   }
 </pre>
 
