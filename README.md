@@ -13,8 +13,12 @@
   }
 </pre>
 
-<a href='https://www.facebook.com/stepan.rudiak.58'><img src='https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white'></a>
-
+<a href='https://www.facebook.com/stepan.rudiak.58'>
+  <img src='https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white'/>
+</a>
+<a href="https://www.linkedin.com/in/stepan-rudiak/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 
 
 <!--
