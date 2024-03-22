@@ -50,6 +50,6 @@
 </a>
 
 <hr>
-<a href='https://drive.google.com/file/d/199JCi8B62gaCIDhJuXorj_LgaV3SQEMn/view?usp=drive_link'>Download CV</a>
+<a href='https://drive.google.com/file/d/1FdWJpTSKBbvqnQAfeZfGlT_ToIQFM7ed/view?usp=sharing'>Download CV</a>
 <hr>
 
