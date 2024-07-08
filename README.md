@@ -49,7 +49,4 @@
   <img src='https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white' alt='LinkedIn Badge'>
 </a>
 
-<hr>
-<a href='https://drive.google.com/file/d/1FdWJpTSKBbvqnQAfeZfGlT_ToIQFM7ed/view?usp=sharing'>Download CV</a>
-<hr>
 
